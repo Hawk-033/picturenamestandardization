@@ -1,3 +1,1 @@
-# picturenamestandardization
-# picturenamestandardization
-# picturenamestandardization
+# Picture Name Standardization Script
